@@ -1,0 +1,93 @@
+// A place to build your expert
+
++ hi
+- Hey, How can i help you today ? 
+- G'day, How are you today ? 
+//1
++ *
+- How about asking me the best place to visit in Sydney ? 
+- errr, I dont think I am quite capable of understanding that yet.
+- Ummm, maybe try asking me the places to eat nearby.
+
+//2
++ * best place *
+- I love Breakfast Point, but Five Dock is a nice place too.
+- Have you been to <a href="http://google.com/search?q=Blue Mountains" target="_blank">Blue Mountains</a> ? Or Katoomba ? You will love it. 
+- If you are into <a href="https://www.visitnsw.com/nsw-tales/adventure-sport/favourite-adventure-activities-in-nsw/" target="_blank">quad biking and sky diving</a> visit Maitland / Newcastle. You will love it. 
+
++  best place *
+- I love Breakfast Point, but Five Dock is a nice place too.
+- Have you been to <a href="http://google.com/search?q=Blue Mountains" target="_blank">Blue Mountains</a> ? Or Katoomba ? You will love it. 
+- If you are into <a href="https://www.visitnsw.com/nsw-tales/adventure-sport/favourite-adventure-activities-in-nsw/" target="_blank">quad biking and sky diving</a> visit Maitland / Newcastle. You will love it. 
+
++ * place *
+- I love Breakfast Point, but Five Dock is a nice place too.
+- Have you been to Blue Mountains ? Or Katoomba ? You will love it. 
+
++ place *
+- I love Breakfast Point, but Five Dock is a nice place too.
+- Have you been to Blue Mountains ? Or Katoomba ? You will love it. 
+
+//3
++ * places to eat
+- There are a lot of restaurants in Strathfield Plaza. I am sure you will find one of your choice.
+- Surry Hills, have the best restaurants, be it Indian, Italian, Chinese all of them are the best one. 
+
++ * place to eat
+- There are a lot of restaurants in Strathfield Plaza. I am sure you will find one of your choice.
+- Surry Hills, have the best restaurants, be it Indian, Italian, Chinese all of them are the best one. 
+
++ * place to eat *
+- There are a lot of restaurants in Strathfield Plaza. I am sure you will find one of your choice.
+- Surry Hills, have the best restaurants, be it Indian, Italian, Chinese all of them are the best one. 
+
++ places to eat *
+- There are a lot of restaurants in Strathfield Plaza. I am sure you will find one of your choice.
+- Surry Hills, have the best restaurants, be it Indian, Italian, Chinese all of them are the best one. 
+//4
++ * public transport
+- Its very easy to catch a bus or train from anywhere in Sydney, make sure you have downloaded the <a href="https://transportnsw.info/apps/opal-travel">Opal App</a>
+- You get trains, buses and metro very often so worry not.
+
++ transport *
+- Its very easy to catch a bus or train from anywhere in Sydney, make sure you have downloaded the <a href="https://transportnsw.info/apps/opal-travel">Opal App</a>
+- You get trains, buses and metro very often so worry not.
+
+
++ * public transport *
+- Its very easy to catch a bus or train from anywhere in Sydney, make sure you have downloaded the <a href="https://transportnsw.info/apps/opal-travel">Opal App</a>
+- You get trains, buses and metro very often so worry not.
+
++ public transport
+- Its very easy to catch a bus or train from anywhere in Sydney, make sure you have downloaded the <a href="https://transportnsw.info/apps/opal-travel">Opal App</a>
+- You get trains, buses and metro very often so worry not.
+
++  transport
+- Download <a href="https://transportnsw.info/apps/opal-travel" target="_blank">Opal App</a>
+
+//5
++ * expensive * 
+- I know right, Sydney is expensive but I can definitely help you find the cheap places to eat so you can still be happy 😃 
+
++ * expensive
+- I know right, Sydney is expensive but I can definitely help you find the cheap places to eat so you can still be happy 😃 
+//6
++ parks
+- Sydney has a lot of parks find the nearest one <a href="http://google.com/search?q=parks nearby" target="_blank">here</a>
+
++ * parks * 
+- Sydney has a lot of parks find the nearest one <a href="http://google.com/search?q=parks nearby" target="_blank">here</a>
+
++ * parks
+- Sydney has a lot of parks find the nearest one <a href="http://google.com/search?q=parks nearby" target="_blank">here</a>
+
++ parks *
+- Sydney has a lot of parks find the nearest one <a href="http://google.com/search?q=parks nearby" target="_blank">here</a>
+
+ //7
++ (* weather *|weather|* weather)
+- The weather here is very good. Check todays <a href="http://google.com/search?q=weather" target="_blank">here</a>
+//8
++ (* atm *|atm|* atm)
+- Find the nearest here <a href="http://google.com/search?q=banks and atm nearby" target="_blank">here</a>
+//9
