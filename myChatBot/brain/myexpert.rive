@@ -1,5 +1,4 @@
 // A place to build your expert
-
 + hi
 - Hey, How can i help you today ? 
 - G'day, How are you today ? 
@@ -91,3 +90,19 @@
 + (* atm *|atm|* atm)
 - Find the nearest here <a href="http://google.com/search?q=banks and atm nearby" target="_blank">here</a>
 //9
++ (* security *|security|* secuirty)
+- Australia is a safe country with a low crime rate. However, particularly if you're in a big city, use the same level of caution you would anywhere else in the world.
+- Australia has a stable political system and a low crime rate
+//10
++ (* heritage *|heritage|* heritage)
+- You can find those details here in the <a href="https://www.arts.gov.au/what-we-do/cultural-heritage" target="_blank">official website</a>
+//11
++ (* laws *|laws|* laws|laws *)
+- There are restrictions on what you can do while you are on a temporary visa. <a href="https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing" target="_blank"> Read theme here</a>
+//12
++ * (currency|foreign|exchange) *
+- There are a tons of places to do that. <a href="http://google.com/search?q=foreign currency exchange nearby" target="_blank"> Click here to see the nearest store from you.
+//13
++ (* hotel|* hotel *|hotel *|hotel)
+- This <a href="https://www.escapesetc.com/8-ways-eat-for-cheap-australia/" target="_blank" >blog</a> is exactly what something you are looking for. Don't forget to checkout the local takeways shop nearby too.
+//14

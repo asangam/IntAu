@@ -175,6 +175,20 @@
 ! sub banks = atm
 ! sub bank = atm
 ! sub culture = heritage
+! sub secure = security
+! sub safe = security
+! sub rules = laws
+! sub law = laws
+! sub money = currency
+! sub exchanging = currency
+! sub exchange = currency
+! sub money = currency
+! sub hotels = hotel
+! sub motels = hotel
+! sub motel = =hotel
+! sub restaurant = hotel
+! sub restaurants = hotel
+
 
 // Person substitutions
 ! person i am    = you are
