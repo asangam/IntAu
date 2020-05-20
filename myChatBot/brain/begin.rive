@@ -188,7 +188,7 @@
 ! sub motel = =hotel
 ! sub restaurant = hotel
 ! sub restaurants = hotel
-
+! sub beaches = beach
 
 // Person substitutions
 ! person i am    = you are

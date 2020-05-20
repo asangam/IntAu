@@ -106,3 +106,12 @@
 + (* hotel|* hotel *|hotel *|hotel)
 - This <a href="https://www.escapesetc.com/8-ways-eat-for-cheap-australia/" target="_blank" >blog</a> is exactly what something you are looking for. Don't forget to checkout the local takeways shop nearby too.
 //14
++ (* beach *|beach|* beach|beach *)
+- <img src="https://media.giphy.com/media/VNGhrQtzWORWM/giphy.gif" width="200" height="100">
+- Sydney's got beautiful beaches. I love Manly beach. Bondi beach is also a good one.
+//15
++ (* emergency *|emergency|* emergency|emergency *)
+- If you see someone seriously injured or you are in medical emergency dial 000. 
+//16
+
+
