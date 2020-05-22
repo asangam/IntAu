@@ -189,7 +189,24 @@
 ! sub restaurant = hotel
 ! sub restaurants = hotel
 ! sub beaches = beach
-
+! sub groceries = grocery
+! sub food = groceries
+! sub simcard = sim
+! sub sim card = sim
+! sub lisense = license
+! sub driving = license
+! sub visas = visa
+! sub aborigines = aboriginal
+! sub aborigine = aboriginal
+! sub indigenous = aboriginal
+! sub opera house = opera
+! sub sydney opera = opera
+! sub cheap shopping = shopping
+! sub cheap deals = shopping
+! sub maps = map
+! sub bike = bikes
+! sub biking = bikes
+! sub zoos = zoo
 // Person substitutions
 ! person i am    = you are
 ! person you are = I am
